@@ -1,8 +1,8 @@
 # Kia Ora, I'm Emma!
 💻 Software Engineer and Game Dev<br>
-🏫 Studying computer science and computer graphics and games at victoria university of wellington,New zealand<br>
+🏫 Studying Computer Science and Computer Graphics and Games at Victoria University of Wellington, New Zealand<br>
 👩‍🎓 Currently in my 3rd year at university<br>
-🖋️ I am able to confidently code in Java, C++ and python<br>
+🖋️ I am able to confidently code in Java, C++ and Python<br>
 💭 I am currently working on learning OpenGL and delving deeper into Java, C++ and Python to become more proficient and confident with these languages
 
 
